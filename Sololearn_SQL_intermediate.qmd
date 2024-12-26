@@ -436,4 +436,4 @@ img.certificate <- magick::image_read("certificates/8cff4771-043e-4bb0-b3d0-ce2d
 img.certificate
 ```
 
-\[Credential URL\](<https://www.sololearn.com/certificates/CC-BJHLUH2I>)
+\[Credential URL\](<https://www.sololearn.com/certificates/CC-XKPIXCFT>)
